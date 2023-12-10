@@ -1,0 +1,15 @@
+/Users/hicham/Desktop/MyBank/MyBank/bin/Debug/net7.0/MyBank
+/Users/hicham/Desktop/MyBank/MyBank/bin/Debug/net7.0/MyBank.deps.json
+/Users/hicham/Desktop/MyBank/MyBank/bin/Debug/net7.0/MyBank.runtimeconfig.json
+/Users/hicham/Desktop/MyBank/MyBank/bin/Debug/net7.0/MyBank.dll
+/Users/hicham/Desktop/MyBank/MyBank/bin/Debug/net7.0/MyBank.pdb
+/Users/hicham/Desktop/MyBank/MyBank/obj/Debug/net7.0/MyBank.csproj.AssemblyReference.cache
+/Users/hicham/Desktop/MyBank/MyBank/obj/Debug/net7.0/MyBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hicham/Desktop/MyBank/MyBank/obj/Debug/net7.0/MyBank.AssemblyInfoInputs.cache
+/Users/hicham/Desktop/MyBank/MyBank/obj/Debug/net7.0/MyBank.AssemblyInfo.cs
+/Users/hicham/Desktop/MyBank/MyBank/obj/Debug/net7.0/MyBank.csproj.CoreCompileInputs.cache
+/Users/hicham/Desktop/MyBank/MyBank/obj/Debug/net7.0/MyBank.dll
+/Users/hicham/Desktop/MyBank/MyBank/obj/Debug/net7.0/refint/MyBank.dll
+/Users/hicham/Desktop/MyBank/MyBank/obj/Debug/net7.0/MyBank.pdb
+/Users/hicham/Desktop/MyBank/MyBank/obj/Debug/net7.0/MyBank.genruntimeconfig.cache
+/Users/hicham/Desktop/MyBank/MyBank/obj/Debug/net7.0/ref/MyBank.dll

@@ -1,0 +1,25 @@
+name: Build and Test
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: dependecies
+        run: dotnet restore
+
+      - name: Build
+        run: dotnet build --configuration Release 
+
+      - name: Test
+        run: dotnet test --configuration Release --no-build
+
+      
